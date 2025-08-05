@@ -27,3 +27,22 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# IntelliJ project files
+.idea/
+*.iml
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Build output (if applicable)
+out/
+build/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Java class files
+*.class
